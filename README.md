@@ -10,7 +10,7 @@
 
 <a href="https://sant1513.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ED0331?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhishesh-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abhisheshuu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:abhisheshuu@gmail.com?subject=Opportunity%20for%20Abhishesh%20Kumar%20%E2%80%94%20%5BRole%5D%20at%20%5BCompany%5D&body=Hi%20Abhishesh%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20speak%20with%20you%20about%20an%20opening%20on%20our%20team.%0A%0ARole%3A%0ACompany%3A%0ALocation%20%2F%20work%20model%3A%0ATeam%20size%20and%20scope%3A%0AWhat%20the%20role%20owns%3A%0A%0AA%20little%20on%20why%20I%20think%20it%27s%20a%20fit%3A%20your%20background%20in%20placement%20and%20program%20operations%20%E2%80%94%20and%20the%20automation%20and%20governance%20work%20behind%20it%20%E2%80%94%20lines%20up%20closely%20with%20what%20we%20need.%0A%0AWould%20you%20be%20open%20to%20a%20short%20intro%20call%20this%20week%3F%20Happy%20to%20work%20around%20your%20schedule.%0A%0ABest%20regards%2C%0A%5BYour%20name%5D%0A%5BTitle%2C%20Company%5D%0A%5BPhone%20%2F%20LinkedIn%5D"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bangalore,%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=4285F4"/>
 <img src="https://komarev.com/ghpvc/?username=Sant1513&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS"/>
 
@@ -319,7 +319,7 @@ fraud and leakage controls — the unglamorous guardrails that keep a 2,000+ per
 
 <a href="https://sant1513.github.io/portfolio/"><img src="https://img.shields.io/badge/View_the_full_portfolio-ED0331?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhishesh-kumar"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abhisheshuu@gmail.com"><img src="https://img.shields.io/badge/abhisheshuu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:abhisheshuu@gmail.com?subject=Opportunity%20for%20Abhishesh%20Kumar%20%E2%80%94%20%5BRole%5D%20at%20%5BCompany%5D&body=Hi%20Abhishesh%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20speak%20with%20you%20about%20an%20opening%20on%20our%20team.%0A%0ARole%3A%0ACompany%3A%0ALocation%20%2F%20work%20model%3A%0ATeam%20size%20and%20scope%3A%0AWhat%20the%20role%20owns%3A%0A%0AA%20little%20on%20why%20I%20think%20it%27s%20a%20fit%3A%20your%20background%20in%20placement%20and%20program%20operations%20%E2%80%94%20and%20the%20automation%20and%20governance%20work%20behind%20it%20%E2%80%94%20lines%20up%20closely%20with%20what%20we%20need.%0A%0AWould%20you%20be%20open%20to%20a%20short%20intro%20call%20this%20week%3F%20Happy%20to%20work%20around%20your%20schedule.%0A%0ABest%20regards%2C%0A%5BYour%20name%5D%0A%5BTitle%2C%20Company%5D%0A%5BPhone%20%2F%20LinkedIn%5D"><img src="https://img.shields.io/badge/abhisheshuu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
