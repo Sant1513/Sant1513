@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://sant1513.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ED0331?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhishesh-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhisheshuu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bangalore,%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=4285F4"/>
@@ -316,6 +317,7 @@ fraud and leakage controls — the unglamorous guardrails that keep a 2,000+ per
 
 <br/>
 
+<a href="https://sant1513.github.io/portfolio/"><img src="https://img.shields.io/badge/View_the_full_portfolio-ED0331?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhishesh-kumar"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhisheshuu@gmail.com"><img src="https://img.shields.io/badge/abhisheshuu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
