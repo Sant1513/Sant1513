@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Abhishesh%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Operations%20Manager%20%7C%20Ops%20Strategy%20%C2%B7%20Automation%20%C2%B7%20Analytics&descAlignY=57&descSize=18" alt="header"/>
 
-<img width="150" src="https://drive.google.com/thumbnail?id=1k2NS25IqfUY4KD9wXHP3XLUGr1WIuAsr&sz=w600" alt="Abhishesh Kumar"/>
-
 <a href="https://linkedin.com/in/abhishesh-kumar">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Scaling+operations+for+2%2C200%2B+learners;1%2C000%2B+placements+enabled+through+ops+excellence;%E2%82%B92.5+Cr%2B+monthly+revenue+operations+supported;Turning+messy+processes+into+measurable+systems" alt="typing"/>
 </a>
