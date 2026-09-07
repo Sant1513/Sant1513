@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Abhishesh%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Operations%20Manager%20%7C%20Ops%20Strategy%20%C2%B7%20Automation%20%C2%B7%20Analytics&descAlignY=57&descSize=18" alt="header"/>
 
+<img width="150" src="https://drive.google.com/thumbnail?id=1k2NS25IqfUY4KD9wXHP3XLUGr1WIuAsr&sz=w600" alt="Abhishesh Kumar"/>
+
 <a href="https://linkedin.com/in/abhishesh-kumar">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Scaling+operations+for+2%2C200%2B+learners;1%2C000%2B+placements+enabled+through+ops+excellence;%E2%82%B92.5+Cr%2B+monthly+revenue+operations+supported;Turning+messy+processes+into+measurable+systems" alt="typing"/>
 </a>
@@ -9,6 +11,7 @@
 <br/>
 
 <a href="https://sant1513.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ED0331?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/151GY4RS9Lvl4EB-9064ib-1L82kF2t4E/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhishesh-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhisheshuu@gmail.com?subject=Opportunity%20for%20Abhishesh%20Kumar%20%E2%80%94%20%5BRole%5D%20at%20%5BCompany%5D&body=Hi%20Abhishesh%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20speak%20with%20you%20about%20an%20opening%20on%20our%20team.%0A%0ARole%3A%0ACompany%3A%0ALocation%20%2F%20work%20model%3A%0ATeam%20size%20and%20scope%3A%0AWhat%20the%20role%20owns%3A%0A%0AA%20little%20on%20why%20I%20think%20it%27s%20a%20fit%3A%20your%20background%20in%20placement%20and%20program%20operations%20%E2%80%94%20and%20the%20automation%20and%20governance%20work%20behind%20it%20%E2%80%94%20lines%20up%20closely%20with%20what%20we%20need.%0A%0AWould%20you%20be%20open%20to%20a%20short%20intro%20call%20this%20week%3F%20Happy%20to%20work%20around%20your%20schedule.%0A%0ABest%20regards%2C%0A%5BYour%20name%5D%0A%5BTitle%2C%20Company%5D%0A%5BPhone%20%2F%20LinkedIn%5D"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bangalore,%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=4285F4"/>
@@ -318,6 +321,7 @@ fraud and leakage controls — the unglamorous guardrails that keep a 2,000+ per
 <br/>
 
 <a href="https://sant1513.github.io/portfolio/"><img src="https://img.shields.io/badge/View_the_full_portfolio-ED0331?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/151GY4RS9Lvl4EB-9064ib-1L82kF2t4E/view?usp=sharing"><img src="https://img.shields.io/badge/Download_my_résumé-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abhishesh-kumar"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhisheshuu@gmail.com?subject=Opportunity%20for%20Abhishesh%20Kumar%20%E2%80%94%20%5BRole%5D%20at%20%5BCompany%5D&body=Hi%20Abhishesh%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20speak%20with%20you%20about%20an%20opening%20on%20our%20team.%0A%0ARole%3A%0ACompany%3A%0ALocation%20%2F%20work%20model%3A%0ATeam%20size%20and%20scope%3A%0AWhat%20the%20role%20owns%3A%0A%0AA%20little%20on%20why%20I%20think%20it%27s%20a%20fit%3A%20your%20background%20in%20placement%20and%20program%20operations%20%E2%80%94%20and%20the%20automation%20and%20governance%20work%20behind%20it%20%E2%80%94%20lines%20up%20closely%20with%20what%20we%20need.%0A%0AWould%20you%20be%20open%20to%20a%20short%20intro%20call%20this%20week%3F%20Happy%20to%20work%20around%20your%20schedule.%0A%0ABest%20regards%2C%0A%5BYour%20name%5D%0A%5BTitle%2C%20Company%5D%0A%5BPhone%20%2F%20LinkedIn%5D"><img src="https://img.shields.io/badge/abhisheshuu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
